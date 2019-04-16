@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 from __future__ import print_function
 from yapsy.PluginManager import PluginManager
 import argparse  # new in Python2.7
